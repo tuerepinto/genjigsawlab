@@ -235,7 +235,7 @@ Projeto desenvolvido no contexto de disciplina de **Redes Neurais Generativas**,
 ## 📜 Licença
 
 Este projeto está sob licença **MIT**.  
-Crie o arquivo `LICENSE` para formalizar no repositório.
+[veja LICENSE.md](LICENSE.md).
 
 ---
 
