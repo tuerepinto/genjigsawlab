@@ -239,21 +239,6 @@ Este projeto está sob licença **MIT**.
 
 ---
 
-## 📣 Citação (opcional)
-
-Se usar este repositório em trabalhos acadêmicos:
-
-```bibtex
-@misc{genjigsawlab2026,
-  title        = {GenJigsawLab: Automatic Jigsaw Puzzle Solving with Generative AI},
-  author       = {Tuerê},
-  year         = {2026},
-  howpublished = {\url{https://github.com/SEU_USUARIO/genjigsawlab}}
-}
-```
-
----
-
 ## ⭐ Status
 
 Em desenvolvimento ativo.  
